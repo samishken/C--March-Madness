@@ -1,6 +1,6 @@
 ## March-Madness
 # Following March Madness, I created this site to host tournaments that last year long.
-This site was built using c#
+This site was built using c# & SQL Server
 - Website can be used to track and manage tournaments
 - Website has the ability to Create Tournament, Teams, Members 
 - We can Track Tournament winners
